@@ -149,7 +149,7 @@ afk_triggers = [
 
 
 
-prefix = ''
+prefix = '?'
 intents = discord.Intents.default()
 intents.messages = True
 intents = discord.Intents.all()
